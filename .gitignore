@@ -1,0 +1,5 @@
+.anotherTextDocument
+.aTextDocument
+*.out
+/aFile/*
+/anotherFile/*
