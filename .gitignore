@@ -1,5 +1,5 @@
-.anotherTextDocument
-.aTextDocument
+.anotherTextDocument.txt
+.aTextDocument.txt
 *.out
 /aFile/*
 /anotherFile/*
